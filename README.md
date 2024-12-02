@@ -1,1 +1,3 @@
-# advent-of-code
+# Advent Of Code
+
+Happy holidays!
